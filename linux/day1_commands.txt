@@ -1,0 +1,6 @@
+ls - list files
+cd - change directory
+pwd - current directory
+
+tried ls -la also, shows hidden files
+
