@@ -1,0 +1,13 @@
+ls - list files
+ls -la shows hidden
+
+cd foldername
+
+cd .. goes back
+...................................
+printWOrkingDirectory
+pwd shows current directory
+
+helps to know where i am
+
+used it when cd got confusing
