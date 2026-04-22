@@ -1,0 +1,18 @@
+pwd shows current path
+
+mkdir testfolder
+creates folder
+
+cd testfolder
+
+
+cd .. goes back
+
+cd / goes to root
+
+cd ~ goes to home
+
+
+...................
+
+< root and home >
