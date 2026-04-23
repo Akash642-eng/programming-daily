@@ -1,0 +1,15 @@
+touch file.txt creates file
+
+cat file.txt shows content
+
+used cat to verify file creation
+
+......................
+
+cp file1 file2 copies
+
+mv file1 file2 moves or renames
+
+rm deletes file
+
+///File ops
