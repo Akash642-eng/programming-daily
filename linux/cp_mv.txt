@@ -1,0 +1,3 @@
+cp file1 file2 → copy
+
+mv file1 file2 → move or rename
