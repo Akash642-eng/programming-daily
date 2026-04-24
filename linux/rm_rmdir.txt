@@ -1,0 +1,5 @@
+rm file → delete file
+
+rmdir folder → delete empty folder
+
+rm -rf → deletes everything(deletes everything)
